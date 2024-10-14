@@ -1,0 +1,39 @@
+Cosine similarities for Query: 'Tasmanian Aboriginal And PResident'
+Cosine similarity between Query and 'doc2.txt': 0.3773
+Cosine similarity between Query and 'doc4.txt': 0.0351
+Cosine similarity between Query and 'doc10.txt': 0.0068
+Cosine similarity between Query and 'doc7.txt': 0.0066
+Cosine similarity between Query and 'doc1.txt': 0.0063
+Cosine similarity between Query and 'doc5.txt': 0.0000
+Cosine similarity between Query and 'doc9.txt': 0.0000
+Cosine similarity between Query and 'doc6.txt': 0.0000
+Cosine similarity between Query and 'doc3.txt': 0.0000
+Cosine similarity between Query and 'doc8.txt': 0.0000
+Precision@5 for Query: 'Tasmanian Aboriginal And PResident': 0.4000
+
+Cosine similarities for Query: 'Scientists typhoons and hurricanes Francis'
+Cosine similarity between Query and 'doc10.txt': 0.2167
+Cosine similarity between Query and 'doc5.txt': 0.0086
+Cosine similarity between Query and 'doc7.txt': 0.0000
+Cosine similarity between Query and 'doc1.txt': 0.0000
+Cosine similarity between Query and 'doc9.txt': 0.0000
+Cosine similarity between Query and 'doc6.txt': 0.0000
+Cosine similarity between Query and 'doc3.txt': 0.0000
+Cosine similarity between Query and 'doc4.txt': 0.0000
+Cosine similarity between Query and 'doc8.txt': 0.0000
+Cosine similarity between Query and 'doc2.txt': 0.0000
+Precision@5 for Query: 'Scientists typhoons and hurricanes Francis': 0.4000
+
+Cosine similarities for Query: 'Oceangate’s Titan and Space'
+Cosine similarity between Query and 'doc5.txt': 0.4077
+Cosine similarity between Query and 'doc9.txt': 0.1637
+Cosine similarity between Query and 'doc8.txt': 0.1319
+Cosine similarity between Query and 'doc7.txt': 0.0000
+Cosine similarity between Query and 'doc1.txt': 0.0000
+Cosine similarity between Query and 'doc6.txt': 0.0000
+Cosine similarity between Query and 'doc3.txt': 0.0000
+Cosine similarity between Query and 'doc4.txt': 0.0000
+Cosine similarity between Query and 'doc10.txt': 0.0000
+Cosine similarity between Query and 'doc2.txt': 0.0000
+Precision@5 for Query: 'Oceangate’s Titan and Space': 0.4000
+
